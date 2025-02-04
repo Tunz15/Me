@@ -1,29 +1,23 @@
-# Welcome to GitHub Desktop!
+# Welcome to MyPage  !
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Samuel Ellis
-
-<--! use later-->
 # Hi there, I'm Tunz15! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn and explore new technologies. Here's a little bit about me:
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on improving my skills in web development and exploring machine learning.
-- 🌱 I’m currently learning JavaScript, Python, and data science.
+- 🔭 I’m currently working on improving my skills in web development, software development and exploring machine learning.
+- 🌱 I’m currently learning JavaScript, Typescript, Python, and data science.
 - 👯 I’m looking to collaborate on open source projects that can make a difference.
 - 💬 Ask me about anything related to web development, data science, or any interesting tech topics.
 - 📫 How to reach me: 
-  - Email: [your-email@example.com](mailto:your-email@example.com)
-  - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
+  - Email: [samuelkpeglah1506@gmail.com]
+  - LinkedIn: [https://www.linkedin.com/in/samuel-kpeglah-84191b238]
+- ⚡ Fun fact: I love solving puzzles and reading in my free time.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript, Python, HTML, CSS
+- **Languages**: JavaScript, Python, HTML, CSS, C, C++, Java
 - **Frameworks/Libraries**: React, Node.js, Express, TensorFlow
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, Docker, VS Code
