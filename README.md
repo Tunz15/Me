@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tunz15&repo=your-repo-name&theme=radical)](https://github.com/Tunz15/your-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tunz15&repo=your-repo-name&theme=radical)](https://github.com/Tunz15/chatbot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tunz15&repo=another-repo-name&theme=radical)](https://github.com/Tunz15/another-repo-name)
 
 ## 📫 Let's Connect
